@@ -1,16 +1,16 @@
 .container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    box-sizing: border-box;
-    flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  box-sizing: border-box;
+  flex-direction: column;
 }
 
 @media (min-width: 768px) {
-    .container {
-        padding-left: 30%;
-        padding: 20px;
-    }
+  .container {
+    padding-left: 30%;
+  }
 }
 
 .multimedia-container {
