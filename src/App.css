@@ -1,14 +1,15 @@
-
-
-@media (min-width: 768px) {
-    .container {
-        padding-left: 10%;
-        display: flex;
+.container {
+    display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 20px;
     box-sizing: border-box;
     flex-direction: column;
+}
+
+@media (min-width: 768px) {
+    .container {
+        padding-left: 10%;
     }
 }
 
@@ -95,32 +96,13 @@
     background-color: rgb(12, 227, 12);
 }
 
-.image-dummy-title {
-    margin-left: 20px;
-    font-weight: bold;
-    font-size: 30px;
-    position: absolute;
-    bottom: 50%;
-    left: 130%;
-    white-space: nowrap;
-}
-
-.video-dummy-title {
-    margin-left: 20px;
-    font-weight: bold;
-    font-size: 30px;
-    position: absolute;
-    top: 30%;
-    left: 130%;
-    white-space: nowrap;
-}
-
+.image-dummy-title,
+.video-dummy-title,
 .gif-dummy-title {
     margin-left: 20px;
     font-weight: bold;
     font-size: 30px;
     position: absolute;
-    bottom: 50%;
     left: 130%;
     white-space: nowrap;
 }
