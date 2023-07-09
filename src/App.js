@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ReactPlayer from "react-player"
+import ReactPlayer from "react-player";
 import './App.css';
 
 const App = () => {
@@ -37,7 +37,9 @@ const App = () => {
             url="https://youtu.be/LjZxeSne67E" 
             width="100%"
             height="100%"
-            autoplay={true}
+            muted={true}
+            playing={true}
+            controls={false}
             loop={true}
           />
         </div>
