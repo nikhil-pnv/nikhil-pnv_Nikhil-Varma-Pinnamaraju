@@ -26,17 +26,12 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Pushing the files into GitHub 
-The commands that I used are as follow 
->> git init
-
->> git add .
-
->> git commit -m "First Commit"
-
->> git branch -M main
-
->> git remote add origin https://github.com/nikhil-pnv/nikhil-pnv_Nikhil-Varma-Pinnamaraju.git
-
+The commands that I used are as follows
+>> git init\
+>> git add .\
+>> git commit -m "First Commit"\
+>> git branch -M main\
+>> git remote add origin https://github.com/nikhil-pnv/nikhil-pnv_Nikhil-Varma-Pinnamaraju.git\
 >> git push -u origin main
 
 ## Deploy Process 
