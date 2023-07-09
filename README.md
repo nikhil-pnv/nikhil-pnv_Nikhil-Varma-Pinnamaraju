@@ -28,6 +28,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+## Pushing the files into GitHub 
+The commands that I used are as follow 
+>> git init
+>> git add .
+>> git commit -m "First Commit"
+>> git branch -M main
+>> git remote add origin https://github.com/nikhil-pnv/nikhil-pnv_Nikhil-Varma-Pinnamaraju.git
+>> git push -u origin main
+
+## Deploy Process 
+I have deployed this app in Netlify by simple conntecting my github repository to the Netlify account.
+We can also directly deploy the app by dropping the build folder which is created using the command `npm build`
+
+
 
 
 
