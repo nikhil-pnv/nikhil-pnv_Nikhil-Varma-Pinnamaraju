@@ -118,3 +118,33 @@
     left: 130%;
     white-space: nowrap;
 }
+
+@media (max-width: 767px) {
+    .image-dummy-title {
+        bottom: 20%;
+        top: auto;
+    }
+    .video-dummy-title {
+        top: 40%;
+        bottom: auto;
+    }
+    .gif-dummy-title {
+        bottom: 20%;
+        top: auto;
+    }
+}
+
+@media (min-width: 768px) {
+    .image-dummy-title {
+        bottom: 50%;
+        top: auto;
+    }
+    .video-dummy-title {
+        top: 30%;
+        bottom: auto;
+    }
+    .gif-dummy-title {
+        bottom: 50%;
+        top: auto;
+    }
+}
