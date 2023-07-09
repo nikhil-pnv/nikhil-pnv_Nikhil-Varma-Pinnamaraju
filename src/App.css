@@ -1,9 +1,9 @@
 .container {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 20px;
-    padding-left: 10%;
+    padding-left: 5%;
     box-sizing: border-box;
     flex-direction: column;
 }
@@ -87,7 +87,7 @@
 .image-dummy-title {
     margin-left: 20px;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 30px;
     position: absolute;
     bottom: 50%;
     left: 130%;
@@ -97,7 +97,7 @@
 .video-dummy-title {
     margin-left: 20px;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 30px;
     position: absolute;
     top: 50%;
     left: 130%;
@@ -107,7 +107,7 @@
 .gif-dummy-title {
     margin-left: 20px;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 30px;
     position: absolute;
     bottom: 50%;
     left: 130%;
