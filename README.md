@@ -14,9 +14,6 @@ After creating the react app navigate to created floder using the following comm
 In this project I have used react-player module which is imported using the following command
 >> npm i react-player
 
-## Available Scripts
-
-In the project directory, you can run:
 
 # Running the project ` npm start`
 We can run the react app using the following command 
