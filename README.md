@@ -40,7 +40,7 @@ The commands that I used are as follow
 >> git push -u origin main
 
 ## Deploy Process 
-I have deployed this app in Netlify by simple conntecting my github repository to the Netlify account.
+I have deployed this app in Netlify by simple conntecting my github repository to the Netlify account.\
 We can also directly deploy the app by dropping the build folder which is created using the command `npm build`
 
 
