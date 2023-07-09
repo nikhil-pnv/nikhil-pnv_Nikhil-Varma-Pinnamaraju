@@ -1,8 +1,6 @@
-# Deploy link :   https://responsive-multimedia-container.netlify.app/
+# Deploy link :  https://responsive-multimedia-container.netlify.app/
 
-# Source Code Link :
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Source Code Link : https://github.com/nikhil-pnv/nikhil-pnv_Nikhil-Varma-Pinnamaraju.git
 
 # Creating React App 
 
