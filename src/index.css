@@ -6,6 +6,7 @@ body {
     border-radius: 88px;
     background: #c2bebc;
     box-shadow: inset 1px 1px 2px #908d8b, inset -1px -1px 2px #f4efed;
+    background-size: cover;
 }
 
 code {
