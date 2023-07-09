@@ -4,7 +4,7 @@
 
 # Creating React App 
 
-Initially React app is created using the command  "npx create-react-app app-name"
+Initially React app is created using the command  `npx create-react-app app-name`
 >> npx create-react-app RESPONSIVE_MULTIMEDIA_CONTAINER
 
 After creating the react app navigate to created floder using the following command
