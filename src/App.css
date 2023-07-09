@@ -68,7 +68,7 @@
     justify-content: center;
     width: 30px;
     height: 30px;
-    background-color: rgba(254, 108, 11, 0.5);
+    background-color:  rgba(222, 232, 37, 0.767);
     border-radius: 50%;
     cursor: pointer;
 }
@@ -82,7 +82,7 @@
 }
 
 .favorite-icon:hover {
-    background-color: rgba(245, 239, 60, 0.8);
+    background-color: rgba(254, 18, 5, 0.8);
 }
 
 .favorite-icon.imagefavorited {
