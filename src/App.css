@@ -75,7 +75,7 @@
 
 @media (max-width: 767px) {
     .favorite-icon {
-        position: static;
+        position: relative;
         margin-right: 10px;
         z-index: -1;
     }
