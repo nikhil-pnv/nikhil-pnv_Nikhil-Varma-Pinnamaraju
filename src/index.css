@@ -4,8 +4,8 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     border-radius: 88px;
-    background: #efb9a3;
-    box-shadow: inset 35px 35px 70px #b18979, inset -35px -35px 70px #ffe9cd;
+    background: #c2bebc;
+    box-shadow: inset 1px 1px 2px #908d8b, inset -1px -1px 2px #f4efed;
 }
 
 code {
