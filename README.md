@@ -18,7 +18,7 @@ In this project I have used react-player module which is imported using the foll
 
 In the project directory, you can run:
 
-### Running the project ` npm start`
+## Running the project ` npm start`
 We can run the react app using the following command 
 >> npm start
 
