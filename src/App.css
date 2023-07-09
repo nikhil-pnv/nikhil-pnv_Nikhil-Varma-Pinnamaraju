@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10%;
+    padding: 20px;
     padding-left: 5%;
     box-sizing: border-box;
     flex-direction: column;
@@ -99,7 +99,7 @@
     font-weight: bold;
     font-size: 30px;
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 130%;
     white-space: nowrap;
 }
